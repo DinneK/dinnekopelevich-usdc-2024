@@ -20,7 +20,7 @@
 </details>
 
 ## About The Project
-Welcome to the Stripe Implementation Test Application, a demonstration of how to seamlessly integrate Stripe into a larger, more robust application. This project leverages React on the client side and Express.js on the server side to showcase a painless implementation of Stripe payment processing.
+In the captivating journey of crafting this project, I embraced the challenge of conceptualizing an expansive library of books. This endeavor aimed to create a seamless experience for users, akin to navigating a physical library where one could search for a term and receive a corresponding book (object). Much like the process of searching for a keyword in a library book, users could then "check out" the digital equivalent, obtaining the information they sought. As I delved into the intricacies of this project, my focus extended far beyond the mere implementation of code; I sought to immerse myself in the user's perspective. Questions like, "What is the user truly seeking?" and "Is a keyword search sufficient, or would users prefer searching by title?" became pivotal considerations. Anticipating and addressing the diverse needs and expectations of end users became a guiding principle, infusing depth and empathy into every facet of the development process.
 <br>
 
 
