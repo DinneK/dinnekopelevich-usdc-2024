@@ -1,3 +1,48 @@
+
+<a name="readme-top"></a>
+
+<!-- HEADER -->
+<h1 align="center">USDC Project-Based Assessment</h1>
+
+<h3 align="center">Software Engineering</h3>
+
+<p></p>
+
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li><a href="#about-the-project">About The Project</a></li>
+    <li><a href="#setup">Setup</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#instructions">Instructions</a></li>
+  </ol>
+</details>
+
+## About The Project
+Welcome to the Stripe Implementation Test Application, a demonstration of how to seamlessly integrate Stripe into a larger, more robust application. This project leverages React on the client side and Express.js on the server side to showcase a painless implementation of Stripe payment processing.
+<br>
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Setup
+- Clone the repository to your local machine
+- `cd` into the repository
+- Type `open tester.html`
+- Open local dev tools
+- Explore and enjoy!
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+## Contact
+Dinne Kopelevich | [LinkedIn](https://www.linkedin.com/in/dinne-kopelevich-174584a/) | [GitHub](https://github.com/DinneK)<br>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Instructions
+
 # findSearchTermInBooks
 
 Included in this repository are files to support candidates applying for software engineering roles through the GSA's U.S. Digital Corps program. 
@@ -37,3 +82,5 @@ or
 `mariebrown-usdc-2023`
 
 You, of course, should name your repository for the remarkable technologist of civic tech's future that you are.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
