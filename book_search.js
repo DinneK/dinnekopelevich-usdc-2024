@@ -19,7 +19,6 @@
  * @returns {JSON} - Search results.
  * */
 function findSearchTermInBooks(searchTerm, scannedTextObj) {
-  console.log({ searchTerm });
   var result = {
     SearchTerm: "",
     Results: [],
@@ -49,7 +48,6 @@ function findSearchTermInBooks(searchTerm, scannedTextObj) {
     }
   });
 
-  console.log({ result });
   return result;
 }
 
